@@ -17,5 +17,4 @@ This React project serves as a practical expense tracker, empowering users to se
 - Arrays
 
 
-### Author 
-Alexander Adame; Future Software Developer; https://www.linkedin.com/in/alexander-adame-david/
+
